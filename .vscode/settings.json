@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.jcfg": "plaintext",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
